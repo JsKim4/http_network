@@ -6,4 +6,5 @@
 - [1장 인터넷 네트워크](./chapter_1)
 - [2장 URI 와 웹 브라우저 요청 흐름](./chapter_2)
 - [3장 HTTP 기본](./chapter_3)
+- [4장 HTTP 메서드](./chapter_4)
 
