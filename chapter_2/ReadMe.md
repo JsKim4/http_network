@@ -4,7 +4,7 @@
 - URI
 - 웹 브라우저 요청 흐름
 
-### `URI`
+# URI
 - URI (Uniform Resource Identifier)
 - URI, URL, URN
     - URI는 로케이터, 이름 또는 둘다 추가로 분류될 수 있다.
@@ -48,7 +48,7 @@
             - ?로 시작, &로 추가 가능
         - fragment
             - html 내부 북마크에 사용
-### `웹 브라우저 요청 흐름`
+# 웹 브라우저 요청 흐름
 - HTTP 메세지 전송
     1. 웹 브라우저가 HTTP 메세지 생성
     2. SOCKET 라이브러리를 통해 전달

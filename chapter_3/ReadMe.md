@@ -7,7 +7,7 @@
 - 비 연결성 (connectionless)
 - HTTP 메세지
 
-### `모든것이 HTTP`
+# 모든것이 HTTP
 - Hyper Text Transfer Protocol
 - HTTP 메세지는 모든 것을 전송
     - HTML, TEXT
@@ -32,14 +32,14 @@
     - HTTP 메세지
     - 단순함, 확장 가능
 
-### `클라이언트 서버 구조`
+# 클라이언트 서버 구조
 - Request Response 구조
 - 클라이언트는 서버에 요청을 보내고, 응답을 대기
 - 서버가 요청에 대한 결과를 만들어서 응답
 - 비즈니스 로직 / 데이터 = 서버
 - UI / 사용성 = 클라이언트
 
-### `Stateful, Stateless`
+# Stateful, Stateless
 - HTTP는 무상태 프로토콜
 - Stateful
     - 서버가 클라이언트 이전 상태를 보존
@@ -54,7 +54,7 @@
         - ex) Login, Cookie 등
         - 전송하는 데이터량이 증가함
 
-### `비 연결성 (connectionless)`
+# 비 연결성 (connectionless)
 - HTTP는 기본이 연결을 유지하지 않는 모델
 - 일반적으로 초 단위의 이하의 빠른 속도로 응답
 - 서버자원을 효율적으로 사용가능
