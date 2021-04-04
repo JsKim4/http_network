@@ -8,4 +8,5 @@
 - [3장 HTTP 기본](./chapter_3)
 - [4장 HTTP 메서드](./chapter_4)
 - [5장 HTTP 메서드 활용](./chapter_5)
+- [6장 HTTP 상태 코드](./chapter_6)
 
