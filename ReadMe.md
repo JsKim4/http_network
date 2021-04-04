@@ -9,4 +9,5 @@
 - [4장 HTTP 메서드](./chapter_4)
 - [5장 HTTP 메서드 활용](./chapter_5)
 - [6장 HTTP 상태 코드](./chapter_6)
+- [7장 HTTP 헤더1 - 일반 헤더](./chapter_7)
 
