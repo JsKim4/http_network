@@ -10,4 +10,5 @@
 - [5장 HTTP 메서드 활용](./chapter_5)
 - [6장 HTTP 상태 코드](./chapter_6)
 - [7장 HTTP 헤더1 - 일반 헤더](./chapter_7)
+- [8장 HTTP 헤더2 - 캐시와 조건부 요청](./chapter_8)
 
